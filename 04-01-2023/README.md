@@ -83,3 +83,122 @@ def how_many_seconds(hours):
 def remainder(x, y):
 	return x % y
 ```
+
+
+#### [10. Return a String as an Integer](https://edabit.com/challenge/GPmoRCZKkyNtoJMcN)
+
+#numbers #strings
+
+```python 
+def string_int(txt):
+    return int(txt)
+```
+
+#### [11. Convert Age to Days](https://edabit.com/challenge/xbZR26rHMNo32yz35)
+
+#numbers #strings
+
+```python
+def calc_age(age):
+	return age * 365
+```
+
+
+#### [12. Find the Perimeter of a Rectangle](https://edabit.com/challenge/Yx2a9B57vXRuPevGh)
+
+#numbers #math
+
+```python
+def find_perimeter(length, width):
+	return (length + width) * 2
+```
+
+
+#### [13. Power Calculator](https://edabit.com/challenge/v5gc8FQkDEepkqpfp)
+
+#numbers #numbers
+
+```python 
+def circuit_power(voltage, current):
+	return voltage * current
+```
+
+
+#### [14. Sum of Polygon Angles](https://edabit.com/challenge/mDzheHpwtqyXePEBE)
+
+#numbers #math #functional_programming
+
+```python
+def sum_polygon(n):
+	return (n-2) * 180
+```
+
+
+#### [15. To the Power of _____](https://edabit.com/challenge/xWSjvoH7mEkSnqS7H)
+
+#numbers #strings
+
+```python 
+def calculate_exponent(num, exp):
+	return num ** exp
+```
+
+
+#### [16. Boolean to String Conversion](https://edabit.com/challenge/QQp2o22huzBCkHesy)
+
+#logic #strings
+
+```python 
+def bool_to_string(flag):
+	return str(flag)
+```
+
+
+#### [17. Return the First Element in a List](https://edabit.com/challenge/hEQ3rBrKrztQK8qAd)
+
+#numbers #arrays
+
+```python
+def get_first_value(number_list):
+	return number_list[0]
+```
+
+
+#### [18. Football Points](https://edabit.com/challenge/gwqqc5p3oiFXRJAQm)
+
+#numbers #algebra #math
+
+```python
+def football_points(wins, draws, losses):
+	return 3 * wins + 1 * draws + lossess * 0
+```
+
+
+#### [19. Football Points](https://edabit.com/challenge/gwqqc5p3oiFXRJAQm)
+
+#numbers #algebra
+
+```python 
+def football_points(wins, draws, losses):
+	return 3 * wins + 1 * draws + losses * 0
+```
+
+
+#### [10. Return a String as an Integer](https://edabit.com/challenge/GPmoRCZKkyNtoJMcN)
+
+#numbers #strings
+
+```python 
+def string_int(txt):
+    return int(txt)
+```
+
+
+#### [10. Return a String as an Integer](https://edabit.com/challenge/GPmoRCZKkyNtoJMcN)
+
+#numbers #strings
+
+```python 
+def string_int(txt):
+    return int(txt)
+```
