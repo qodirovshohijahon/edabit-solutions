@@ -172,33 +172,3 @@ def get_first_value(number_list):
 def football_points(wins, draws, losses):
 	return 3 * wins + 1 * draws + lossess * 0
 ```
-
-
-#### [19. Football Points](https://edabit.com/challenge/gwqqc5p3oiFXRJAQm)
-
-#numbers #algebra
-
-```python 
-def football_points(wins, draws, losses):
-	return 3 * wins + 1 * draws + losses * 0
-```
-
-
-#### [10. Return a String as an Integer](https://edabit.com/challenge/GPmoRCZKkyNtoJMcN)
-
-#numbers #strings
-
-```python 
-def string_int(txt):
-    return int(txt)
-```
-
-
-#### [10. Return a String as an Integer](https://edabit.com/challenge/GPmoRCZKkyNtoJMcN)
-
-#numbers #strings
-
-```python 
-def string_int(txt):
-    return int(txt)
-```
